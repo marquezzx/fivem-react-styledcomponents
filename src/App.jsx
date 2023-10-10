@@ -1,4 +1,4 @@
-import { Menu } from "./components/Menu";
+import { Menu } from "./components/Menu/Menu";
 import { useEffect } from "react";
 import { Route, Routes } from "react-router-dom";
 import { useNavigate } from "./hooks/useNavigate";
