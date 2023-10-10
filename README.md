@@ -1,6 +1,6 @@
-# Boilerplate FiveM React & Tailwind (Javascript)
+# Boilerplate FiveM React & Styled Components (Javascript)
 
-Template de React.JS e Tailwind para criação de resources para FiveM
+Template de React.JS e Styled Components para criação de resources para FiveM
 
 > Tópicos: [Configuração](#configuração), [Hooks](#hooks), [Instalação](#instalação), [.eslintrc.cjs](#eslint), [Suporte](#suporte)
 
